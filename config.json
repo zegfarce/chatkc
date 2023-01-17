@@ -1,3 +1,5 @@
 {
-	"server": "wss://server.mattkc.com:2002"
+	"server": "wss://server.mattkc.com:2002",
+	"reconnectTimeout": 5000,
+	"commandPrefix": "!!"
 }
